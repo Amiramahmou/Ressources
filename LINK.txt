@@ -1,0 +1,4 @@
+SVG guideliness
+https://developer.mozilla.org/fr/search?q=SVG_guidelines
+W3c vibration API
+https://developer.mozilla.org/fr/search?q=w3c+vibration+API
